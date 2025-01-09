@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363887912031",
+    "project_id": "music-app-e9dad",
+    "storage_bucket": "music-app-e9dad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363887912031:android:dfb172d20c60960ed167ea",
+        "android_client_info": {
+          "package_name": "com.example.music_playlist_organizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9_GF6i-gi5cnxqp2QVpXZW_PT883KbUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
